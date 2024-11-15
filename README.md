@@ -1,4 +1,4 @@
-###Weather CLI App 🌤️
+Weather CLI App 🌤️
 1) show cmd
    
 ![show](https://github.com/user-attachments/assets/83d5dd39-bcde-4bc0-9ca8-4eca2ca7a688)
