@@ -40,3 +40,24 @@ pip install requests pyfiglet simple-chalk argparse
    
 ![fav](https://github.com/user-attachments/assets/79d48afc-b1ba-442f-bc77-5c966c598a2e)
 
+
+## Weather Icons 🎨
+The application displays different weather icons based on conditions:
+
+- ☀️ Clear sky (day)
+- 🌙 Clear sky (night)
+- ⛅️ Few clouds (day)
+- ☁️ Cloudy
+- 🌧 Rain
+- 🌦 Rain with sun
+- ⛈ Thunderstorm
+- 🌨 Snow
+- 🌫 Mist
+
+## Technical Details 🔧
+
+- Uses OpenWeatherMap API for weather data
+- Stores favorites in a local text file (favourites.txt)
+- Temperatures are displayed in Celsius
+- Maximum of 3 favorite cities can be stored
+
