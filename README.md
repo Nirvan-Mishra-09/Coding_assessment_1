@@ -1,8 +1,8 @@
-**Weather CLI App 🌤️**
+# Weather CLI App 🌤️
 
 A command-line weather application that allows users to check weather conditions for any city, manage favorite locations, and display weather information with beautiful ASCII art and emoji icons.
 
-**Features ✨**
+## Features ✨
 
 - Check current weather conditions for any city
 - Save up to 3 favorite cities for quick access
@@ -14,9 +14,12 @@ A command-line weather application that allows users to check weather conditions
 - Weather descriptions
 - Country code display
 
-**Prerequisites 📋**
+## Prerequisites 📋
+
 Before running the application, make sure you have Python installed and the following packages:
-bash
+
+```bash
+pip install requests pyfiglet simple-chalk argparse
 1) show cmd
    
 ![show](https://github.com/user-attachments/assets/83d5dd39-bcde-4bc0-9ca8-4eca2ca7a688)
