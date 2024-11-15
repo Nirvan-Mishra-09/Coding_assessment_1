@@ -1,4 +1,5 @@
 **Weather CLI App 🌤️**
+
 A command-line weather application that allows users to check weather conditions for any city, manage favorite locations, and display weather information with beautiful ASCII art and emoji icons.
 
 **Features ✨**
