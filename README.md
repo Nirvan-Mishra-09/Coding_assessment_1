@@ -1,6 +1,7 @@
 # Coding_assessment_1
 
 1) show cmd
+   
 ![show](https://github.com/user-attachments/assets/83d5dd39-bcde-4bc0-9ca8-4eca2ca7a688)
 
 2) remove cmd
